@@ -5,4 +5,4 @@ I am Sebastian. Master of Electrical and Computer Engineering at the University 
 - 🔭 I’m currently working as a Research Assistant in the Robotics Lab @ University of Washington
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on Computer Vision Projects
-- 📫 How to reach me: ![Email](seb.gab1992@gmail.com) | ![LinkedIn](www.linkedin.com/in/sebastian-gabriel)
+- 📫 How to reach me: [Email](seb.gab1992@gmail.com) | [LinkedIn](www.linkedin.com/in/sebastian-gabriel)
