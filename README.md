@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sebastian. Master of Electrical and Computer Engineering at the University of Washington in Seattle.
+I am Sebastian. Currently pursuing a Master of Science in Electrical and Computer Engineering at the University of Washington in Seattle.
 
 - 🔭 I’m currently working as a Research Assistant Computer Vision/Robotics Perception in the Robotics Lab @ University of Washington
 - 🌱 I’m currently learning Deep Learning
